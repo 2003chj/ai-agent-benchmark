@@ -1,3 +1,8 @@
+# AI Agent Benchmark - MiMo Token Plan Test
+
+本项目用于整理和测试 AI Coding Agent 在真实开发任务中的表现，包括 Claude Code、Codex、OpenCode、Cline、Aider 等工具的使用流程、Prompt、测试结果和 bad case。
+
+我计划基于该项目接入 MiMo Token Plan，对比 MiMo、Claude、GPT、DeepSeek 等模型在代码理解、多文件修改、测试生成、Bug 定位和中文技术需求理解方面的能力，并持续记录可复现的测试结果。
 # 🤖 AI Agents Benchmark
 
 > **The definitive comparison of AI coding agents. Real benchmarks. Real user experiences. Updated January 2026.**
